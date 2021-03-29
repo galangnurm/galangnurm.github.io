@@ -1,0 +1,47 @@
+html {
+  position: relative;
+}
+
+body {
+  margin-top: 30px;
+  margin-bottom: 100px;
+}
+
+.banner {
+  width: 100px solid #999;
+}
+
+.jumbotron {
+  width: 100;
+  text-shadow: 1px;
+}
+
+.jumbotron img {
+  border: 4px solid #337ab7;
+  box-shadow: 1px;
+}
+.about hr {
+  width: 250px;
+  border-top: 3px solid #999 ;
+}
+.section {
+  min-height: 500px;
+}
+
+.contact {
+  min-height: 400px;
+}
+.contact hr { 
+  border-top: 3px solid #999;
+}
+  
+
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 100px;
+  background-color: #333;
+  color: #999;
+}
